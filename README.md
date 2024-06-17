@@ -5,5 +5,5 @@
 <p>You can contact me through LI, IG or GitHub.✉️</p>
 <p>I like to stare at the 🩵ceiling🩵 during my free time.</p>
         <footer>
-            <p><small>&copy; 2024 kanniwandie </small></p>
+            <p><sub>&copy; 2024 kanniwandie </sub></p>
         </footer>
