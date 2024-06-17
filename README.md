@@ -1,4 +1,4 @@
-<h2 align="center"> <b>About Me</b></h2>
+<h1 align="center"> <b>About Me</b></h1>
 <h2>✨Hi there!✨</h2>
 <p>I'm John Doe👋🏻and I work in ducktech.🦆</p>
 <p>My job at ducktech is to protect the company from any vulnerabilities.⚔️</p>
